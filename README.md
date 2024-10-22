@@ -1,8 +1,6 @@
-# React + Vite
+Quote Genrator 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot from 2024-10-22 19-03-58](https://github.com/user-attachments/assets/222d3033-7f5d-4a5b-963c-6a776620cc18)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot from 2024-10-22 19-03-55](https://github.com/user-attachments/assets/e56816f0-c926-4632-9130-54271200fa4a)
